@@ -13,7 +13,7 @@ I'm a  Web Developer 💻,  Designer 🎨!
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
 ### 🤝 Connect with me:
-Instragram:  www.instragram.com/-thi-lakshi-
+- Instragram:  www.instragram.com/-thi-lakshi-
 
 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
