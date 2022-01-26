@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="developer-web-responsive-design-woman-girl-glasses-gears-development-website-programming-icon-set-colorful-vector-illustration-76896404.jpg\C:\Users\Thiwanki\Desktop" alt="my banner"></a>
-</p>
+ 
 
 <h3 align="center">
 Hi there, I'm thivanki 👋
