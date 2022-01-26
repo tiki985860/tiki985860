@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="developer-web-responsive-design-woman-girl-glasses-gears-development-website-programming-icon-set-colorful-vector-illustration-76896404.jpg\C:\Users\Thiwanki\Desktop" alt="my banner"></a>
+  <img src="developer-web-responsive-design-woman-girl-glasses-gears-development-website-programming-icon-set-colorful-vector-illustration-76896404.jpg\C:\Users\Thiwanki\Desktop" alt="my banner"></a>
 </p>
 
 <h3 align="center">
