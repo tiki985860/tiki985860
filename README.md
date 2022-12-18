@@ -1,4 +1,4 @@
-
+<img align="center" alt="banner" src="https://blog.devgenius.io/parallax-effect-in-reactjs-b304fd5f9a67?gi=be494ca2074e">
 <h1 align = "center"> Hi 👋, I'm Thiwanki</h1>
 <h3 align = "center">A passionate frontend developer.</h3>
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
