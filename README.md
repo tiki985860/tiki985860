@@ -1,7 +1,7 @@
-<[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 h1 align="center">Hi 👋, I'm Thiwanki</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align = "right" alt="Coding" width="400" src="https://dribbble.com/shots/2413754-Coding">
+<h3 align="center">A passionate frontend developer.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiki985860&label=Profile%20views&color=0e75b6&style=flat" alt="tiki985860" /> </p>
 
