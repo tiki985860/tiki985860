@@ -1,8 +1,9 @@
 
 <h1 align = "center"> Hi 👋, I'm Thiwanki</h1>
 <h3 align = "center">A passionate frontend developer.</h3>
-<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+
+![image (1)](https://github.com/tiki985860/tiki985860/assets/95839292/97994606-db87-45e6-b4d7-4bfa5769cc44)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiki985860&label=Profile%20views&color=0e75b6&style=flat" alt="tiki985860" /> </p>
