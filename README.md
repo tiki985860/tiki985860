@@ -10,8 +10,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tiki985860" alt="tiki985860" /></a> </p>
 
-- 🔭 I’m currently working on [DEA-Coursework](https://github.com/tiki985860/DEA-Coursework)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/thiwanki-lakshani-25294921b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/thiwanki-lakshani-25294921b" height="30" width="40" /></a>
