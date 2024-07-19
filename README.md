@@ -2,11 +2,7 @@
 <h1 align = "center"> Hi 👋, I'm Thiwanki</h1>
 <h3 align = "center">A passionate frontend developer.</h3>
 
-
-![image (1)](https://github.com/tiki985860/tiki985860/assets/95839292/97994606-db87-45e6-b4d7-4bfa5769cc44)
-
-
-
+![Untitled design](https://github.com/user-attachments/assets/34edb379-4b8e-4337-bc2c-670e441f9ed9)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tiki985860" alt="tiki985860" /></a> </p>
 
