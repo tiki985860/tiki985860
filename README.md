@@ -1,6 +1,6 @@
 
 <h1 align = "center"> Hi 👋, I'm Thiwanki</h1>
-<h3 align = "center">A passionate frontend developer.</h3>
+<h3 align = "center">Data Science Enthusiasts|Machine Learning & AI</h3>
 
 ![tiki(2)](https://github.com/user-attachments/assets/9f13e128-e322-4d81-a721-70176646db84)
 
